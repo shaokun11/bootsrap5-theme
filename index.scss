@@ -1,0 +1,8 @@
+@import "./node_modules/bootstrap/scss/functions";
+@import "./node_modules/bootstrap/scss/mixins";
+$primary: #fffd71;
+$input-btn-focus-width: 2px;
+$link-color: shade-color($primary, 30%);
+
+@import "./node_modules/bootstrap/scss/bootstrap";
+
